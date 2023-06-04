@@ -1,4 +1,5 @@
 # TensorHealth: Post-Op Precision
+> By [Samar Qureshi](https://www.samarq.org/about) and [Annie Wang](https://github.com/anniew5)
 
 ## Project Description
 
